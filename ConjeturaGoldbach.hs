@@ -1,5 +1,6 @@
--- Recuperatorio TP n°1 del Taller de Álgebra
--- 1er cuatrimestre 2021.
+-- TP n°1 del Taller de Álgebra
+-- Iván Butera
+-- 1C 2021.
 
 
 -- EJERCICIO 1:
